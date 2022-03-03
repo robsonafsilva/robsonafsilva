@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robson - @robsonafsiva.
+- 👋 Hi, I’m Robson - @robsonafsilva.
 - 👀 I’m interested in Javascript, Python and IoT.
 - 🌱 I’m currently learning HTML, CSS, Javascript, Python and IoT.
 
