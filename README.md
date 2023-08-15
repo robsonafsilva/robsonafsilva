@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Robson - @robsonafsilva.
-- 👀 I'm interested in Go, Python, DevOps and IoT.
+- 👀 I'm interested in Ruby, Rails, DevOps and IoT.
 - 🌱 I'm just a learner.
 
 
